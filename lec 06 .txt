@@ -1,0 +1,4 @@
+Welcome to freeCodeCamp
+Full Stack Curriculum
+Learn the skills to become a full stack developer 
+become a paragraph when you edit </p> in coding 
